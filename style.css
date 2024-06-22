@@ -1,0 +1,18 @@
+*{
+    tr,th,td{
+        border:1px solid black;
+    }
+}
+/*body{
+display: flex;
+   
+}
+/*.table1{
+    margin-top: 90px;
+}
+.table2{
+margin-left: 100px;
+margin-top: 60px;
+margin-left:10% ;
+}
+*/
